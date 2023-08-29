@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container .topNav{
+    margin-top: 1px;
+    position: fixed;
+    overflow: hidden;
+    z-index: 1;
+    width: 100%;
+    background: #fff!important;
+}
+.amrNav{
+    margin-top: 50px;   
+}
+ input{
+    background: #fff;
+    width: 60%;
+    height: 3rem;
+    border-radius: 5px;
+ }   
+ button{
+    width: 10%;
+    height: 3rem;
+    border-radius: 5px;
+    background: #fff;
+ }
+ button:hover{
+   background: #f1f1f1;
+ }
+ .amrNav i{
+    color: grey;
+    margin-right: 4px;
+ }
+ .amrNav a{
+    color: black;
+ }
